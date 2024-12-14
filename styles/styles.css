@@ -336,7 +336,31 @@ i {
   width: 60%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .html {
-  width: 90%;
+  width: 40%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .css {
+  width: 40%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .js {
+  width: 40%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .python {
+  width: 80%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .go {
+  width: 60%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .linux {
+  width: 70%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .networks {
+  width: 60%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .eh {
+  width: 60%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .sql {
+  width: 40%;
 }
 
 .stat-title {

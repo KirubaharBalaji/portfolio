@@ -333,7 +333,31 @@ i{
                     }
                     //do the same thing below for different Languages
                     .html{
-                        width: 90%;
+                        width: 40%;
+                    }
+                    .css{
+                        width: 40%;
+                    }
+                    .js{
+                        width: 40%;
+                    }
+                    .python{
+                        width: 80%;
+                    }
+                    .go{
+                        width: 60%;
+                    }
+                    .linux{
+                        width: 70%;
+                    }
+                    .networks{
+                        width: 60%;
+                    }
+                    .eh{
+                        width: 60%;
+                    }
+                    .sql{
+                        width: 40%;
                     }
                 }
             }
@@ -451,6 +475,7 @@ i{
                 color: var(--color-white);
                 margin-bottom: 1.5rem;
 
+
             }
             .icons {
                 display: flex;
@@ -488,6 +513,7 @@ i{
 .portfolio-item:hover .hover-items{
     opacity: 1;
     transform: scale(1);
+
 }
 
 //Blogs Section
